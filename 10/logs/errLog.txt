@@ -1,0 +1,5 @@
+20231121	06:38:44	cba1dac6-456a-4bbb-8ac7-8c8a5bc00b75	Error: Not allowed by CORS
+20231121	08:34:51	8b2c7dce-2dc8-4f3b-ad5f-a62f4fd00ca8	Error: ENOENT: no such file or directory, stat '/home/amadeja/programiranje/node-full-course/08/views/subdir/test.html'
+20231121	08:34:54	9911c278-1b9a-4262-9f09-2fe427480781	Error: ENOENT: no such file or directory, stat '/home/amadeja/programiranje/node-full-course/08/views/subdir/test.html'
+20231121	14:52:50	0bd8a7fb-1d58-48eb-9731-652d575eb41e	SyntaxError: Unexpected token " in JSON at position 0
+20231121	14:53:07	dc87b8a5-17ed-40c5-aa26-b99df4bdbdd0	SyntaxError: Unexpected token " in JSON at position 0
