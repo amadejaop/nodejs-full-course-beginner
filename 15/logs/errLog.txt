@@ -1,0 +1,13 @@
+20231121	06:38:44	cba1dac6-456a-4bbb-8ac7-8c8a5bc00b75	Error: Not allowed by CORS
+20231121	08:34:51	8b2c7dce-2dc8-4f3b-ad5f-a62f4fd00ca8	Error: ENOENT: no such file or directory, stat '/home/amadeja/programiranje/node-full-course/08/views/subdir/test.html'
+20231121	08:34:54	9911c278-1b9a-4262-9f09-2fe427480781	Error: ENOENT: no such file or directory, stat '/home/amadeja/programiranje/node-full-course/08/views/subdir/test.html'
+20231121	14:52:50	0bd8a7fb-1d58-48eb-9731-652d575eb41e	SyntaxError: Unexpected token " in JSON at position 0
+20231121	14:53:07	dc87b8a5-17ed-40c5-aa26-b99df4bdbdd0	SyntaxError: Unexpected token " in JSON at position 0
+20231123	06:37:51	88ffe1aa-53e3-4e8b-a8ab-f711993f7df6	TypeError: Cannot read properties of undefined (reading 'id')
+20231123	06:40:43	654e3fdb-447d-4d20-928b-0823981ebf3f	TypeError: Cannot read properties of undefined (reading 'id')
+20231127	06:55:10	3ee3e8cb-96a3-4eb6-bb68-9ad13a264614	SyntaxError: Unexpected token f in JSON at position 12
+20231127	06:56:34	a646c93a-be2b-4a37-ae07-c7062e3cd198	SyntaxError: Unexpected token f in JSON at position 12
+20231127	06:56:55	3e42526c-b5da-46d7-b810-d5f088dd56bf	SyntaxError: Unexpected token f in JSON at position 15
+20231127	06:57:09	d6318dbe-ca1b-41d9-afb9-7f236f0104b7	SyntaxError: Unexpected token f in JSON at position 15
+20231127	07:00:32	8b6d70a0-4a04-4b30-9a9c-af638331b313	SyntaxError: Unexpected token f in JSON at position 16
+20231127	07:00:49	61a55ea2-f875-4ec9-9c18-79ea4690868e	SyntaxError: Unexpected token ' in JSON at position 1
