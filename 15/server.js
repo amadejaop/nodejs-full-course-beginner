@@ -49,6 +49,7 @@ app.use('/logout', require('./routes/logout'));
 // everything after this line will use the verifyJWT middleware
 app.use(verifyJWT); 
 app.use('/employees', require('./routes/api/employees'));
+app.use('/users', require('./routes/api/users'));
 
 app.all('*', (req, res) => {
     res.status(404);
